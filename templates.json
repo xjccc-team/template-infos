@@ -1,0 +1,20 @@
+[
+  {
+    "name": "vue2-template",
+    "defaultDir": "vue2-template",
+    "url": "https://github.com/xjccc-team",
+    "tar": "https://github.com/xjccc-team/vue2-template"
+  },
+  {
+    "name": "vue3-template",
+    "defaultDir": "vue3-template",
+    "url": "https://github.com/xjccc-team",
+    "tar": "https://github.com/xjccc-team/vue3-template"
+  },
+  {
+    "name": "nuxt3-template",
+    "defaultDir": "nuxt3-template",
+    "url": "https://github.com/xjccc-team",
+    "tar": "https://github.com/xjccc-team/nuxt3-template"
+  }
+]
