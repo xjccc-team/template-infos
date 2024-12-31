@@ -1,10 +1,10 @@
 [
   {
-    "label": "vue2-template",
-    "value": "vue2-template",
-    "hint": "vue2 TS + pinia + router template",
+    "label": "nuxt3-template",
+    "value": "nuxt3-template",
+    "hint": "nuxt3 template",
     "url": "https://github.com/xjccc-team",
-    "tar": "https://codeload.github.com/xjccc-team/vue2-template/tar.gz/refs/heads/main"
+    "tar": "https://codeload.github.com/xjccc-team/nuxt3-template/tar.gz/refs/heads/main"
   },
   {
     "label": "vue3-template",
@@ -14,10 +14,17 @@
     "tar": "https://codeload.github.com/xjccc-team/vue3-template/tar.gz/refs/heads/main"
   },
   {
-    "label": "nuxt3-template",
-    "value": "nuxt3-template",
-    "hint": "nuxt3 template",
+    "label": "uniapp-template",
+    "value": "uniapp-template",
+    "hint": "uniapp TS template",
     "url": "https://github.com/xjccc-team",
-    "tar": "https://codeload.github.com/xjccc-team/nuxt3-template/tar.gz/refs/heads/main"
+    "tar": "https://codeload.github.com/xjccc-team/uniapp-template/tar.gz/refs/heads/main"
+  },
+  {
+    "label": "vue2-template",
+    "value": "vue2-template",
+    "hint": "vue2 TS + pinia + router template",
+    "url": "https://github.com/xjccc-team",
+    "tar": "https://codeload.github.com/xjccc-team/vue2-template/tar.gz/refs/heads/main"
   }
 ]
